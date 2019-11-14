@@ -3,4 +3,7 @@
   <app appid='keigenoolicjcehlbpjcfhdjdmaochie'>
     <updatecheck codebase='https://github.com/Coande/co-trans-ext/releases/download/v1.3/co-trans-ext.crx' version='1.3' />
   </app>
+  <app appid='ncfklglegjceemdfaiblepihhlkoafge'>
+    <updatecheck codebase='https://github.com/Coande/co-trans-ext/releases/download/v1.3/co-trans-ext-google.crx' version='1.3' />
+  </app>
 </gupdate>
